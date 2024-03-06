@@ -1,5 +1,5 @@
 locals {
-  vpc_id              = "vpc-08ef158911afd6de8"
+  vpc_id              = "vpc-0ab5d07a38f810ba9"
   subnet_id           = "subnet-02ef3020c2b43a59d"
   keyname             = "CIaCTS_key"
 }
